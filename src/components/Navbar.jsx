@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import assets from '../assets/assets'
-// import logo from '../assets/logo.svg'
 import ThemeToggleBtn from './ThemeToggleBtn'
 
 
