@@ -42,6 +42,7 @@ const Navbar = ({ theme, setTheme }) => {
         >
           Home
         </a>
+
         <a
           onClick={() => setSidebarOpen(false)}
           href="#services"

@@ -18,7 +18,8 @@ const Services = () => {
     },
     {
       title: "Content writing",
-      description: "We help you create a marketing strategy that drives",
+      description:
+        "We help you create a marketing strategy that drives into world and event",
       icon: assets.content_icon,
     },
     {

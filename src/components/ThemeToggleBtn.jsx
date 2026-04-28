@@ -88,7 +88,7 @@ const ThemeToggleBtn = ({ theme, setTheme }) => {
     <button onClick={() => setTheme(theme === "dark" ? "light" : "dark")}>
       <img
         src={theme === "dark" ? assets.sun_icon : assets.moon_icon}
-        className="size-8.5 p-1.5 border border-gray-500 rounded-full"
+        className="size-8.5 p-1.5 border border-gray-500 rounded-full cursor-pointer"
         alt=""
       />
     </button>
